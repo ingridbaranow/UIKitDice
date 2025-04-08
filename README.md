@@ -1,4 +1,4 @@
-![Demo of the app](assets/DiceGifGitHub.gif)
+![Demo of the app](Assets.xcassets/DiceGifGitHub.gif)
 
 # Dice
 
