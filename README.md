@@ -1,3 +1,5 @@
+![Demo of the app](assets/DiceGifGitHub.gif)
+
 # Dice
 
 ## My First Bootcamp App
